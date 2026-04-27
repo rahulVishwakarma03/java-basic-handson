@@ -13,6 +13,10 @@ class Main {
     System.out.println(twentyTwoRupee.value); // 22
     System.out.println(twoRupee.value); // 2
 
+    System.out.println(twelveRupee.value); // 12
+    System.out.println(tenRupee.value); // 10
+
+
     // twoRupee.value = 22; // error
   }
 }
